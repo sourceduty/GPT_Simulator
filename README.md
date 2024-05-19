@@ -4,5 +4,7 @@
 
 'GPT Simulator' can assist users in multiple ways. It can generate sample dialogues to illustrate how GPTs function in different scenarios, making complex concepts easier to understand. It offers practical advice on implementing GPT models, including how to fine-tune them for specific tasks and the importance of large datasets in training. Additionally, it provides insights into the ethical considerations of deploying AI, helping users navigate the challenges of responsible AI use. Whether for educational purposes, research, or practical implementation, 'GPT Simulator' serves as a comprehensive resource for exploring and utilizing GPT technology.
 
+> Alex: *"I used ChatGPT to build a custom GPT that simulates high-level GPT models. This custom GPT simulates its own kind and is self-referential or meta.*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
