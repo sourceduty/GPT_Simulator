@@ -1,4 +1,4 @@
-![GPT Simulator](https://github.com/sourceduty/GPT_Simulator/assets/123030236/806614c4-8aa3-41f3-bb5f-82c58428874b)
+![GPT Simulator](https://github.com/sourceduty/GPT_Simulator/assets/123030236/405ab286-2e32-4118-ab44-76a2ec28abfc)
 
 [GPT Simulator](https://chatgpt.com/g/g-0INqE5Pxk-gpt-simulator) is a specialized tool developed to provide in-depth simulations and explanations of Generative Pre-trained Transformers (GPTs). It is an expert in high-level simulation, offering detailed insights into the architecture, training, and applications of GPT models. This includes demonstrating various capabilities of GPTs, explaining their design, optimization techniques, and discussing the latest advancements in artificial intelligence. By modeling different types of GPTs, it helps users understand how these models work, their strengths and limitations, and their use in natural language processing tasks.
 
