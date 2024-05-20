@@ -15,5 +15,10 @@
 
 > Alex: *"I used ChatGPT to build a custom GPT that simulates high-level GPT models. This custom GPT simulates its own kind and is self-referential or meta.*
 
+#
+### Related Links
+
+[Custom GPT Analyzer](https://chatgpt.com/g/g-IJ95hRgWU-custom-gpt-analyzer)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
