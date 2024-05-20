@@ -9,6 +9,8 @@
 
 [dalle_simulation.txt](https://github.com/sourceduty/GPT_Simulator/files/15380733/dalle_simulation.txt)
 
+[GPT-4o_Simulation.txt](https://github.com/sourceduty/GPT_Simulator/files/15380747/GPT-4o_Simulation.txt)
+
 #
 
 > Alex: *"I used ChatGPT to build a custom GPT that simulates high-level GPT models. This custom GPT simulates its own kind and is self-referential or meta.*
