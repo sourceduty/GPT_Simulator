@@ -18,7 +18,11 @@
 #
 ### Related Links
 
+[ChatGPT](https://github.com/sourceduty/ChatGPT])
+<br>
 [Custom GPT Analyzer](https://chatgpt.com/g/g-IJ95hRgWU-custom-gpt-analyzer)
+<br>
+[GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
